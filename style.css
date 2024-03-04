@@ -1,0 +1,119 @@
+* {
+    padding:0px;
+    margin:0px;
+}
+#navbar {
+    height:70px;
+    width:1300px;
+    background-color: orangered;
+    display:inline-block;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left:0px;
+}
+input {
+    height:38px;
+    width:600px;
+    border-radius: 10px;
+}
+button {
+    padding:11px 12px;
+    border-radius:10px;
+    background-color: orange;
+    color:white;
+}
+#categorie {
+    height:20px;
+    width:95px;
+    font-weight: bolder;
+    border:none;
+    background-color: orangered;
+    color:white;
+}
+#box1 {
+    border:2px solid orangered;
+}
+#box1:hover {
+    border:2px solid white;
+}
+#searchbar {
+    display:flex;
+}
+#box4 {
+    padding-right:80px;
+}
+a:hover {
+    border:2px solid white;
+}
+#searchbar:hover {
+    border:2px solid white;
+}
+#categorie:hover {
+    border:2px solid white;
+}
+div {
+    display:inline-block;
+    margin-left:15px;
+}
+h3 {
+    margin-left:30px;
+    font-family:arial;
+    font-size:22px;
+    font-weight: lighter;
+}
+#pic1:hover {
+    border:2px solid black;
+}
+#pic2:hover {
+    border:2px solid black;
+}
+#pic3:hover {
+    border:2px solid black;
+}
+#pic4:hover {
+    border:2px solid black;
+}
+#pic5:hover{
+    border:2px solid black;
+}
+#pic6:hover {
+    border:2px solid black;
+}
+#row2 {
+    position:relative;
+    top:30px;
+}
+#pic7:hover {
+    border:2px solid black;
+}
+#pic8:hover {
+    border:2px solid black;
+}
+#pic9:hover {
+    border:2px solid black;
+}
+#pic10:hover {
+    border:2px solid black;
+}
+#pic11:hover {
+    border:2px solid black;
+}
+#load {
+    height:33px;
+    width:400px;
+    color:orangered;
+    font-weight:bolder;
+    border:2px solid orangered;
+    position:relative;
+    left:35vw;
+    text-align:center;
+    padding-top:20px;
+}
+#pic12 {
+    border:2px solid transparent;
+}
+#pic12:hover {
+    border:2px solid black;
+}
+
